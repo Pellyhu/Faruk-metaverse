@@ -10,7 +10,7 @@
 - Data Visualization (Matplotlib, Pandas)
 
 ### 📂 My Projects
-- 🐍 [30 Days of Python](https://github.com/Pellyhu/Faruk-metaverse/30-days-python)
+- 🐍 [30 Days of Python](https://github.com/Pellyhu/30-days-python)
 - 📊 [Student Result Analyzer](#)
 - 🌦️ [Weather API App](#)
 - 📈 [Personal Finance Dashboard](#)
